@@ -1,4 +1,4 @@
-# Wine Stable Scripts
+# Wine Legacy Scripts
 These are my install scripts for the stable version of Wine 
 
 To make the file executable do the following. 
