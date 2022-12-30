@@ -1,5 +1,5 @@
 # Wine Legacy Scripts
-These are my install scripts for the stable version of Wine 
+These are my install scripts for the Legacy version of Wine 
 
 To make the file executable do the following. 
 > chmod +x ./W7U20-Stable.sh and to run 
