@@ -18,6 +18,7 @@ And finally. The word after the dash means the version of wine that is available
 
 ### List of Distros
 + Ubuntu
++ Fedora
 
 ### Footnote
 
