@@ -18,6 +18,6 @@ sudo apt update
 sudo apt upgrade
 
 #This installs Wine version 8
-sudo apt install --install-recommends winehq-devel
+sudo apt install --install-recommends winehq-staging
 
 #Subject to GPLv3 License Copyright Nicholas Matthews 2023
